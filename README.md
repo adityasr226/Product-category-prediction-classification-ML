@@ -1,0 +1,1 @@
+The Project covers the understanding of the data set and picking the features to categories the product using classification model which is naive bayes also for the feature engineering Vectorization is used in term of NLP
